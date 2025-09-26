@@ -103,3 +103,9 @@ input[type="number"], select{
   background:var(--paper); padding:1rem; text-align:center; font-size:.95rem;
 }
 .ack{opacity:.85}
+
+.responsive-svg-container {
+margin: 0 auto; /* center */
+width: 100%; /* fill parent width */
+max-width: 1200px; /* cap max width */
+}
